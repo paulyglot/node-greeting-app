@@ -10,8 +10,10 @@ Answer: It's recommended unless you are planning on having your module be a spec
 Programming Questions
 
 4.Add two more functions, greetingSpanish and greetingIcelandic, in greeting.js.
+Answer: completed
 
 5.Utilize the two functions in main.js just like greetingEnglish and greetingJapanese.
+Answer: completed
 
 6.Create another Node module and import it into main.js. Your Node module should have at least two functions within it. Then, call a function from your Node module in main.js.
-Submit basic_node_app_answers.txt and your three .js files.
+Answer: created a module that makes a file (if one does not already exist then appends new information to that file in an module called appendWrite.js.

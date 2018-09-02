@@ -7,5 +7,9 @@ module.exports.greetingJapanese = function() {
 }
 
 module.exports.greetingIcelandic = function() {
-	console.log("Halló")
+	console.log("Halló");
+}
+
+module.exports.greetingSpanish  = function(){
+	console.log("Hola");
 }

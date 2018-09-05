@@ -13,3 +13,4 @@ module.exports.greetingIcelandic = function() {
 module.exports.greetingSpanish  = function(){
 	console.log("Hola");
 }
+

@@ -1,6 +1,6 @@
 const greetings = require("./greeting.js");
 
-const writeAppend = require("./appendWrite.js")
+const appendWrite = require("./appendWrite.js")
 
 greetings.greetingEnglish();
 
@@ -10,4 +10,6 @@ greetings.greetingIcelandic();
 
 greetings.greetingSpanish();
 
+appendWrite.favoriteFood();
 
+appendWrite.favoriteJuice();
